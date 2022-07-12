@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AhmedAlsib3
-- 👀 I’m interested in Data science and machine learning
+- 👨🏽‍💻 I’m a data scientist
 
 
 <!---
